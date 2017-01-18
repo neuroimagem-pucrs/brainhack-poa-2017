@@ -6,7 +6,7 @@ This is the website with information for the local Porto Alegre branch of [Brain
 
 This is where we will post registration instructions when we finalize organization details:
 
-[Register Here](#)
+[Register Here](https://www.eventbrite.com/e/brainhack-global-porto-alegre-tickets-31284891954)
 
 ## Key Dates
 
