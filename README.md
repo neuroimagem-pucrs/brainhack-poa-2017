@@ -33,7 +33,7 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 40,00**, 
 
 - 9:00  - Doors Open / Open Hacking 
 - 12:30 - Lunch
-- 16:00 - Finals Presentations (15min per group)
+- 16:00 - Final Presentations (15min per group)
 - 18:00 - Adjourn / Tchau 
 
 
