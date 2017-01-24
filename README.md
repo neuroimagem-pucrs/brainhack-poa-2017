@@ -20,10 +20,10 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 40,00**, 
 
 - 9:00  - Open BrainHack
 - 9:30  - Welcome to BrainHack
-- 10:00 - Presentation of participants and Projects Pitch
-- 10:30 - Morning Talk: Design Thinking and CriaLab Prof. Dr Luís Villwock
+- 10:00 - Introduction of Participants and Project Pitch
+- 10:30 - Morning Talk: Design Thinking and CriaLab, Prof. Dr Luís Villwock
 - 11:00 - Coffee
-- 11:10 - Ignite Talk: XXX Prof. Dr. Giovanni Salum, MD
+- 11:10 - Ignite Talk:  Prof. Dr. Giovanni Salum, MD
 - 11:40 - Open Hacking (ongoing)
 - 12:30 - Lunch
 - 17:00 - Update talks (5 minute project talks)
