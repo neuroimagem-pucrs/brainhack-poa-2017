@@ -8,7 +8,7 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 40,00**, 
 
 [Register Here](https://www.eventbrite.com/e/brainhack-global-porto-alegre-tickets-31284891954)
 
-*You have 2 days to pay after your application. Your place on the Brainhack will only be confirmed after payment.
+*You have 2 days to pay after your application. Your place on Brainhack will only be confirmed after payment.
 
 ## Key Dates
 
