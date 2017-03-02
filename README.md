@@ -43,3 +43,14 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 40,00**, 
 ## Location
 
 Brainhack @ Porto Alegre will be held in partnership and at [CriaLab](http://www.pucrs.br/crialab). 
+
+## Ideas for Projects
+- Real time fMRI
+- Extract timing from E-PRIME
+- Machine Learning - scikit-learn (machine learning in python)
+- XNAT – Database for neuroimages
+- Novel ways to teach neuroscience
+- Multimodal neuroimaging 
+- Detecting AVC - Machine learning 
+
+
