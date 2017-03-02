@@ -54,6 +54,6 @@ Brainhack @ Porto Alegre will be held in partnership and at [CriaLab](http://www
 - Detecting AVC - Machine learning 
 
 
-## Link to intro talk
+## Link to Intro talk
 
-https://docs.google.com/presentation/d/1fgJCoJC5iNS15MK1dRMxdUZHj7-zf19WF4TwxFegBzw/edit?usp=sharing
+[Link to talk](https://docs.google.com/presentation/d/1fgJCoJC5iNS15MK1dRMxdUZHj7-zf19WF4TwxFegBzw/edit?usp=sharing)
