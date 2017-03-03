@@ -21,11 +21,11 @@ The cost to participate in Porto Alegre's edition of Brainhack is **R$ 40,00**, 
 ### Friday 3rd March
 
 - 9:00  - Open BrainHack
-- 9:30  - Welcome to BrainHack
+- 9:30  - [Welcome to BrainHack](https://docs.google.com/presentation/d/1fgJCoJC5iNS15MK1dRMxdUZHj7-zf19WF4TwxFegBzw/edit#slide=id.p6)
 - 10:00 - Introduction of Participants and Project Pitch
-- 10:30 - Morning Talk: Design Thinking and CriaLab, Prof. Dr Luís Villwock
+- 10:30 - [Morning Talk: Design Thinking and CriaLab, Prof. Dr Luís Villwock](https://www.youtube.com/watch?v=iq4BURqBzjU)
 - 11:00 - Coffee
-- 11:10 - What the "heck" is wrong with brain research in psychiatry?, Prof. Dr. Giovanni Salum, MD
+- 11:10 - [What the "heck" is wrong with brain research in psychiatry?](https://www.youtube.com/watch?v=nLgNjceLKDE), Prof. Dr. Giovanni Salum, MD
 - 11:40 - Open Hacking (ongoing)
 - 12:30 - Lunch
 - 17:00 - Update talks (5 minute project talks)
@@ -54,6 +54,8 @@ Brainhack @ Porto Alegre will be held in partnership and at [CriaLab](http://www
 - Detecting AVC - Machine learning 
 
 
-## Link to Intro talk
+## Links
 
-[Link to talk](https://docs.google.com/presentation/d/1fgJCoJC5iNS15MK1dRMxdUZHj7-zf19WF4TwxFegBzw/edit?usp=sharing)
+[Intro Talk](https://docs.google.com/presentation/d/1fgJCoJC5iNS15MK1dRMxdUZHj7-zf19WF4TwxFegBzw/edit?usp=sharing)
+[Design Thinking](https://www.youtube.com/watch?v=iq4BURqBzjU)
+[Brain Research and Psychiatry](https://www.youtube.com/watch?v=nLgNjceLKDE)
