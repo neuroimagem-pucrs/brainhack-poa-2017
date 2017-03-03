@@ -56,6 +56,10 @@ Brainhack @ Porto Alegre will be held in partnership and at [CriaLab](http://www
 
 ## Links
 
+[Chatter in the world](https://brainhack-slack-invite.herokuapp.com/)
+[Chatter in Porto Alegre](https://brainhack.slack.com/messages/brainhack-poa-2017/)
+[Video at other sites](https://hackpad.com/Brainhack-Global-2017-Video-Content-ZP53JJlhGyJ)
+
 [Intro Talk](https://docs.google.com/presentation/d/1fgJCoJC5iNS15MK1dRMxdUZHj7-zf19WF4TwxFegBzw/edit?usp=sharing)
 [Design Thinking](https://www.youtube.com/watch?v=iq4BURqBzjU)
 [Brain Research and Psychiatry](https://www.youtube.com/watch?v=nLgNjceLKDE)
